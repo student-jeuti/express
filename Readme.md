@@ -17,6 +17,8 @@
 * [TC (Technical Committee)](#tc-technical-committee)
 * [Triagers](#triagers)
 * [License](#license)
+# Jeuti Ray
+
 
 
 [![NPM Version][npm-version-image]][npm-url]
